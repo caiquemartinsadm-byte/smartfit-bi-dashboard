@@ -26,7 +26,7 @@ A extração reproduz a base do painel, não a coleta original na CVM ou no RI.
 
 ## Fontes e status
 
-Fontes declaradas na V5: [CVM](https://dados.cvm.gov.br/) e [Relações com Investidores da Smart Fit](https://investor.smartfit.com.br/). O painel V5 foi aprovado para apresentação. A revisão de 152 observações dos indicadores básicos consta em [docs/evidencias/RELATORIO.md](docs/evidencias/RELATORIO.md): 95 coincidências exatas e 57 na precisão publicada. A validação direta dos ZIPs da CVM, da Planilha Dinâmica e a conciliação integral da página de Rentabilidade ainda estão pendentes. Consulte [o registro atualizado](docs/validation.md).
+Fontes declaradas na V5: [CVM](https://dados.cvm.gov.br/) e [Relações com Investidores da Smart Fit](https://investor.smartfit.com.br/). O painel V5 foi aprovado para apresentação. A revisão de 152 observações dos indicadores básicos consta em [docs/evidencias/RELATORIO.md](docs/evidencias/RELATORIO.md): 95 coincidências exatas e 57 na precisão publicada. A Planilha Dinâmica 3T26 foi conferida em 323 observações (114 operacionais e 209 financeiras RI), todas coincidentes com a V5; veja [as evidências por célula](docs/evidencias/validacao_planilha_dinamica.md). A validação direta dos ZIPs da CVM e a conciliação integral entre a DRE da CVM e a série RI ainda estão pendentes. Consulte [o registro atualizado](docs/validation.md).
 
 ## Uso de inteligência artificial
 
