@@ -1,0 +1,324 @@
+trimestre;campo;aba;celula;valor_original;unidade_original;valor_comparavel;valor_v5;delta;status
+1T22;academias;Indic. Operac.;R3;1090.0;unidades;1090.0;1090.0;0.0;confere
+1T22;academias_proprias;Indic. Operac.;R5;857.0;unidades;857.0;857.0;0.0;confere
+1T22;academias_franquias;Indic. Operac.;R6;233.0;unidades;233.0;233.0;0.0;confere
+1T22;clientes_academias;Indic. Operac.;R29;2878.6949999999997;mil clientes;2878695;2878695.0;0.0;confere
+1T22;clientes_proprias;Indic. Operac.;R31;2257.984;mil clientes;2257984;2257984.0;0.0;confere
+1T22;clientes_franquias;Indic. Operac.;R32;620.711;mil clientes;620711;620711.0;0.0;confere
+2T22;academias;Indic. Operac.;S3;1121.0;unidades;1121.0;1121.0;0.0;confere
+2T22;academias_proprias;Indic. Operac.;S5;879.0;unidades;879.0;879.0;0.0;confere
+2T22;academias_franquias;Indic. Operac.;S6;242.0;unidades;242.0;242.0;0.0;confere
+2T22;clientes_academias;Indic. Operac.;S29;3068.723;mil clientes;3068723;3068723.0;0.0;confere
+2T22;clientes_proprias;Indic. Operac.;S31;2404.236;mil clientes;2404236;2404236.0;0.0;confere
+2T22;clientes_franquias;Indic. Operac.;S32;664.487;mil clientes;664487;664487.0;0.0;confere
+3T22;academias;Indic. Operac.;T3;1157.0;unidades;1157.0;1157.0;0.0;confere
+3T22;academias_proprias;Indic. Operac.;T5;908.0;unidades;908.0;908.0;0.0;confere
+3T22;academias_franquias;Indic. Operac.;T6;249.0;unidades;249.0;249.0;0.0;confere
+3T22;clientes_academias;Indic. Operac.;T29;3377.415;mil clientes;3377415;3377415.0;0.0;confere
+3T22;clientes_proprias;Indic. Operac.;T31;2642.153;mil clientes;2642153;2642153.0;0.0;confere
+3T22;clientes_franquias;Indic. Operac.;T32;735.262;mil clientes;735262;735262.0;0.0;confere
+4T22;academias;Indic. Operac.;U3;1223.0;unidades;1223.0;1223.0;0.0;confere
+4T22;academias_proprias;Indic. Operac.;U5;967.0;unidades;967.0;967.0;0.0;confere
+4T22;academias_franquias;Indic. Operac.;U6;256.0;unidades;256.0;256.0;0.0;confere
+4T22;clientes_academias;Indic. Operac.;U29;3457.039;mil clientes;3457039;3457039.0;0.0;confere
+4T22;clientes_proprias;Indic. Operac.;U31;2705.443;mil clientes;2705443;2705443.0;0.0;confere
+4T22;clientes_franquias;Indic. Operac.;U32;751.596;mil clientes;751596;751596.0;0.0;confere
+1T23;academias;Indic. Operac.;V3;1231.0;unidades;1231.0;1231.0;0.0;confere
+1T23;academias_proprias;Indic. Operac.;V5;974.0;unidades;974.0;974.0;0.0;confere
+1T23;academias_franquias;Indic. Operac.;V6;257.0;unidades;257.0;257.0;0.0;confere
+1T23;clientes_academias;Indic. Operac.;V29;3856.4939999999997;mil clientes;3856494;3856494.0;0.0;confere
+1T23;clientes_proprias;Indic. Operac.;V31;3025.58;mil clientes;3025580;3025580.0;0.0;confere
+1T23;clientes_franquias;Indic. Operac.;V32;830.914;mil clientes;830914;830914.0;0.0;confere
+2T23;academias;Indic. Operac.;W3;1259.0;unidades;1259.0;1259.0;0.0;confere
+2T23;academias_proprias;Indic. Operac.;W5;994.0;unidades;994.0;994.0;0.0;confere
+2T23;academias_franquias;Indic. Operac.;W6;265.0;unidades;265.0;265.0;0.0;confere
+2T23;clientes_academias;Indic. Operac.;W29;3953.499;mil clientes;3953499;3953499.0;0.0;confere
+2T23;clientes_proprias;Indic. Operac.;W31;3102.661;mil clientes;3102661;3102661.0;0.0;confere
+2T23;clientes_franquias;Indic. Operac.;W32;850.838;mil clientes;850838;850838.0;0.0;confere
+3T23;academias;Indic. Operac.;X3;1306.0;unidades;1306.0;1306.0;0.0;confere
+3T23;academias_proprias;Indic. Operac.;X5;1031.0;unidades;1031.0;1031.0;0.0;confere
+3T23;academias_franquias;Indic. Operac.;X6;275.0;unidades;275.0;275.0;0.0;confere
+3T23;clientes_academias;Indic. Operac.;X29;4087.361;mil clientes;4087361;4087361.0;0.0;confere
+3T23;clientes_proprias;Indic. Operac.;X31;3207.85;mil clientes;3207850;3207850.0;0.0;confere
+3T23;clientes_franquias;Indic. Operac.;X32;879.511;mil clientes;879511;879511.0;0.0;confere
+4T23;academias;Indic. Operac.;Y3;1438.0;unidades;1438.0;1438.0;0.0;confere
+4T23;academias_proprias;Indic. Operac.;Y5;1144.0;unidades;1144.0;1144.0;0.0;confere
+4T23;academias_franquias;Indic. Operac.;Y6;294.0;unidades;294.0;294.0;0.0;confere
+4T23;clientes_academias;Indic. Operac.;Y29;4140.126;mil clientes;4140126;4140126.0;0.0;confere
+4T23;clientes_proprias;Indic. Operac.;Y31;3266.647;mil clientes;3266647;3266647.0;0.0;confere
+4T23;clientes_franquias;Indic. Operac.;Y32;873.479;mil clientes;873479;873479.0;0.0;confere
+1T24;academias;Indic. Operac.;Z3;1469.0;unidades;1469.0;1469.0;0.0;confere
+1T24;academias_proprias;Indic. Operac.;Z5;1164.0;unidades;1164.0;1164.0;0.0;confere
+1T24;academias_franquias;Indic. Operac.;Z6;305.0;unidades;305.0;305.0;0.0;confere
+1T24;clientes_academias;Indic. Operac.;Z29;4535.616;mil clientes;4535616;4535616.0;0.0;confere
+1T24;clientes_proprias;Indic. Operac.;Z31;3594.142;mil clientes;3594142;3594142.0;0.0;confere
+1T24;clientes_franquias;Indic. Operac.;Z32;941.4739999999999;mil clientes;941474;941474.0;0.0;confere
+2T24;academias;Indic. Operac.;AA3;1529.0;unidades;1529.0;1529.0;0.0;confere
+2T24;academias_proprias;Indic. Operac.;AA5;1214.0;unidades;1214.0;1214.0;0.0;confere
+2T24;academias_franquias;Indic. Operac.;AA6;315.0;unidades;315.0;315.0;0.0;confere
+2T24;clientes_academias;Indic. Operac.;AA29;4624.267;mil clientes;4624267;4624267.0;0.0;confere
+2T24;clientes_proprias;Indic. Operac.;AA31;3657.5429999999997;mil clientes;3657543;3657543.0;0.0;confere
+2T24;clientes_franquias;Indic. Operac.;AA32;966.724;mil clientes;966724;966724.0;0.0;confere
+3T24;academias;Indic. Operac.;AB3;1591.0;unidades;1591.0;1591.0;0.0;confere
+3T24;academias_proprias;Indic. Operac.;AB5;1267.0;unidades;1267.0;1267.0;0.0;confere
+3T24;academias_franquias;Indic. Operac.;AB6;324.0;unidades;324.0;324.0;0.0;confere
+3T24;clientes_academias;Indic. Operac.;AB29;4826.012000000001;mil clientes;4826012;4826012.0;0.0;confere
+3T24;clientes_proprias;Indic. Operac.;AB31;3833.063;mil clientes;3833063;3833063.0;0.0;confere
+3T24;clientes_franquias;Indic. Operac.;AB32;992.9490000000001;mil clientes;992949;992949.0;0.0;confere
+4T24;academias;Indic. Operac.;AC3;1743.0;unidades;1743.0;1743.0;0.0;confere
+4T24;academias_proprias;Indic. Operac.;AC5;1407.0;unidades;1407.0;1407.0;0.0;confere
+4T24;academias_franquias;Indic. Operac.;AC6;336.0;unidades;336.0;336.0;0.0;confere
+4T24;clientes_academias;Indic. Operac.;AC29;4839.288999999999;mil clientes;4839289;4839289.0;0.0;confere
+4T24;clientes_proprias;Indic. Operac.;AC31;3893.9839999999995;mil clientes;3893984;3893984.0;0.0;confere
+4T24;clientes_franquias;Indic. Operac.;AC32;945.3049999999998;mil clientes;945305;945305.0;0.0;confere
+1T25;academias;Indic. Operac.;AD3;1759.0;unidades;1759.0;1759.0;0.0;confere
+1T25;academias_proprias;Indic. Operac.;AD5;1416.0;unidades;1416.0;1416.0;0.0;confere
+1T25;academias_franquias;Indic. Operac.;AD6;343.0;unidades;343.0;343.0;0.0;confere
+1T25;clientes_academias;Indic. Operac.;AD29;5252.928;mil clientes;5252928;5252928.0;0.0;confere
+1T25;clientes_proprias;Indic. Operac.;AD31;4234.63;mil clientes;4234630;4234630.0;0.0;confere
+1T25;clientes_franquias;Indic. Operac.;AD32;1018.298;mil clientes;1018298;1018298.0;0.0;confere
+2T25;academias;Indic. Operac.;AE3;1818.0;unidades;1818.0;1818.0;0.0;confere
+2T25;academias_proprias;Indic. Operac.;AE5;1459.0;unidades;1459.0;1459.0;0.0;confere
+2T25;academias_franquias;Indic. Operac.;AE6;359.0;unidades;359.0;359.0;0.0;confere
+2T25;clientes_academias;Indic. Operac.;AE29;5151.448;mil clientes;5151448;5151448.0;0.0;confere
+2T25;clientes_proprias;Indic. Operac.;AE31;4149.353;mil clientes;4149353;4149353.0;0.0;confere
+2T25;clientes_franquias;Indic. Operac.;AE32;1002.0950000000001;mil clientes;1002095;1002095.0;0.0;confere
+3T25;academias;Indic. Operac.;AF3;1867.0;unidades;1867.0;1867.0;0.0;confere
+3T25;academias_proprias;Indic. Operac.;AF5;1501.0;unidades;1501.0;1501.0;0.0;confere
+3T25;academias_franquias;Indic. Operac.;AF6;366.0;unidades;366.0;366.0;0.0;confere
+3T25;clientes_academias;Indic. Operac.;AF29;5228.46;mil clientes;5228460;5228460.0;0.0;confere
+3T25;clientes_proprias;Indic. Operac.;AF31;4232.496;mil clientes;4232496;4232496.0;0.0;confere
+3T25;clientes_franquias;Indic. Operac.;AF32;995.9640000000002;mil clientes;995964;995964.0;0.0;confere
+4T25;academias;Indic. Operac.;AG3;2084.0;unidades;2084.0;2084.0;0.0;confere
+4T25;academias_proprias;Indic. Operac.;AG5;1683.0;unidades;1683.0;1683.0;0.0;confere
+4T25;academias_franquias;Indic. Operac.;AG6;401.0;unidades;401.0;401.0;0.0;confere
+4T25;clientes_academias;Indic. Operac.;AG29;5209.762000000001;mil clientes;5209762;5209762.0;0.0;confere
+4T25;clientes_proprias;Indic. Operac.;AG31;4221.611;mil clientes;4221611;4221611.0;0.0;confere
+4T25;clientes_franquias;Indic. Operac.;AG32;988.1510000000001;mil clientes;988151;988151.0;0.0;confere
+1T26;academias;Indic. Operac.;AH3;2113.0;unidades;2113.0;2113.0;0.0;confere
+1T26;academias_proprias;Indic. Operac.;AH5;1703.0;unidades;1703.0;1703.0;0.0;confere
+1T26;academias_franquias;Indic. Operac.;AH6;410.0;unidades;410.0;410.0;0.0;confere
+1T26;clientes_academias;Indic. Operac.;AH29;5582.129;mil clientes;5582129;5582129.0;0.0;confere
+1T26;clientes_proprias;Indic. Operac.;AH31;4527.67;mil clientes;4527670;4527670.0;0.0;confere
+1T26;clientes_franquias;Indic. Operac.;AH32;1054.459;mil clientes;1054459;1054459.0;0.0;confere
+2T26;academias;Indic. Operac.;AI3;2170.0;unidades;2170.0;2170.0;0.0;confere
+2T26;academias_proprias;Indic. Operac.;AI5;1746.0;unidades;1746.0;1746.0;0.0;confere
+2T26;academias_franquias;Indic. Operac.;AI6;424.0;unidades;424.0;424.0;0.0;confere
+2T26;clientes_academias;Indic. Operac.;AI29;5582.426;mil clientes;5582426;5582426.0;0.0;confere
+2T26;clientes_proprias;Indic. Operac.;AI31;4539.023;mil clientes;4539023;4539023.0;0.0;confere
+2T26;clientes_franquias;Indic. Operac.;AI32;1043.4029999999998;mil clientes;1043403;1043403.0;0.0;confere
+3T26;academias;Indic. Operac.;AJ3;2259.0;unidades;2259.0;2259.0;0.0;confere
+3T26;academias_proprias;Indic. Operac.;AJ5;1822.0;unidades;1822.0;1822.0;0.0;confere
+3T26;academias_franquias;Indic. Operac.;AJ6;437.0;unidades;437.0;437.0;0.0;confere
+3T26;clientes_academias;Indic. Operac.;AJ29;5695.754000000001;mil clientes;5695754;5695754.0;0.0;confere
+3T26;clientes_proprias;Indic. Operac.;AJ31;4656.253000000001;mil clientes;4656253;4656253.0;0.0;confere
+3T26;clientes_franquias;Indic. Operac.;AJ32;1039.501;mil clientes;1039501;1039501.0;0.0;confere
+1T22;faturamento_ri;DRE Contábil;R2;669.49;R$ milhões;669.49;669.49;0.0;confere
+1T22;receita_ri;DRE Contábil;R3;621.9884364920123;R$ milhões;621.9884364920123;621.9884364920123;0.0;confere
+1T22;custos_ri;DRE Contábil;R4;-457.2645719672632;R$ milhões;-457.2645719672632;-457.2645719672632;0.0;confere
+1T22;bruto_ri;DRE Contábil;R7;164.7238645247491;R$ milhões;164.7238645247491;164.7238645247491;0.0;confere
+1T22;despesas_ri;DRE Contábil;R10;-175.9161887617011;R$ milhões;-175.9161887617011;-175.9161887617011;0.0;confere
+1T22;equiv_ri;DRE Contábil;R17;0.6464557430466299;R$ milhões;0.6464557430466299;0.6464557430466299;0.0;confere
+1T22;operacional_ri;DRE Contábil;R19;-10.545868493905374;R$ milhões;-10.545868493905374;-10.545868493905374;0.0;confere
+1T22;financeiro_ri;DRE Contábil;R21;-77.24712144910396;R$ milhões;-77.24712144910396;-77.24712144910396;0.0;confere
+1T22;tributos_ri;DRE Contábil;R22;-2.7230853838760005;R$ milhões;-2.7230853838760005;-2.7230853838760005;0.0;confere
+1T22;lucro_ri;DRE Contábil;R24;-90.51607532688533;R$ milhões;-90.51607532688533;-90.51607532688533;0.0;confere
+1T22;ebitda_ri;DRE Contábil;R28;199.58888345905365;R$ milhões;199.58888345905365;199.58888345905365;0.0;confere
+2T22;faturamento_ri;DRE Contábil;S2;741.5768643284421;R$ milhões;741.5768643284421;741.5768643284421;0.0;confere
+2T22;receita_ri;DRE Contábil;S3;689.0970290338006;R$ milhões;689.0970290338006;689.0970290338006;0.0;confere
+2T22;custos_ri;DRE Contábil;S4;-491.76125897423714;R$ milhões;-491.76125897423714;-491.76125897423714;0.0;confere
+2T22;bruto_ri;DRE Contábil;S7;197.33577005956346;R$ milhões;197.33577005956346;197.33577005956346;0.0;confere
+2T22;despesas_ri;DRE Contábil;S10;-156.87330496503571;R$ milhões;-156.87330496503571;-156.87330496503571;0.0;confere
+2T22;equiv_ri;DRE Contábil;S17;2.4706503274342517;R$ milhões;2.4706503274342517;2.4706503274342517;0.0;confere
+2T22;operacional_ri;DRE Contábil;S19;42.93311542196199;R$ milhões;42.93311542196199;42.93311542196199;0.0;confere
+2T22;financeiro_ri;DRE Contábil;S21;-99.20623460133899;R$ milhões;-99.20623460133899;-99.20623460133899;0.0;confere
+2T22;tributos_ri;DRE Contábil;S22;0.351789015924;R$ milhões;0.351789015924;0.351789015924;0.0;confere
+2T22;lucro_ri;DRE Contábil;S24;-55.921330163453;R$ milhões;-55.921330163453;-55.921330163453;0.0;confere
+2T22;ebitda_ri;DRE Contábil;S28;254.95399115067286;R$ milhões;254.95399115067286;254.95399115067286;0.0;confere
+3T22;faturamento_ri;DRE Contábil;T2;823.5864514660343;R$ milhões;823.5864514660343;823.5864514660343;0.0;confere
+3T22;receita_ri;DRE Contábil;T3;766.2910775380667;R$ milhões;766.2910775380667;766.2910775380667;0.0;confere
+3T22;custos_ri;DRE Contábil;T4;-517.2900079893261;R$ milhões;-517.2900079893261;-517.2900079893261;0.0;confere
+3T22;bruto_ri;DRE Contábil;T7;249.0010695487406;R$ milhões;249.0010695487406;249.0010695487406;0.0;confere
+3T22;despesas_ri;DRE Contábil;T10;-157.16762471458787;R$ milhões;-157.16762471458787;-157.16762471458787;0.0;confere
+3T22;equiv_ri;DRE Contábil;T17;-0.1655593794975494;R$ milhões;-0.1655593794975494;-0.1655593794975494;0.0;confere
+3T22;operacional_ri;DRE Contábil;T19;91.66788545465516;R$ milhões;91.66788545465516;91.66788545465516;0.0;confere
+3T22;financeiro_ri;DRE Contábil;T21;-76.93662654384303;R$ milhões;-76.93662654384303;-76.93662654384303;0.0;confere
+3T22;tributos_ri;DRE Contábil;T22;-5.728666765353999;R$ milhões;-5.728666765353999;-5.728666765353999;0.0;confere
+3T22;lucro_ri;DRE Contábil;T24;9.00259214545813;R$ milhões;9.00259214545813;9.00259214545813;0.0;confere
+3T22;ebitda_ri;DRE Contábil;T28;324.98496825921336;R$ milhões;324.98496825921336;324.98496825921336;0.0;confere
+4T22;faturamento_ri;DRE Contábil;U2;917.1430505758171;R$ milhões;917.1430505758171;917.1430505758171;0.0;confere
+4T22;receita_ri;DRE Contábil;U3;853.0636865796532;R$ milhões;853.0636865796532;853.0636865796532;0.0;confere
+4T22;custos_ri;DRE Contábil;U4;-552.1007562330758;R$ milhões;-552.1007562330758;-552.1007562330758;0.0;confere
+4T22;bruto_ri;DRE Contábil;U7;300.9629303465774;R$ milhões;300.9629303465774;300.9629303465774;0.0;confere
+4T22;despesas_ri;DRE Contábil;U10;-163.2198457057415;R$ milhões;-163.2198457057415;-163.2198457057415;0.0;confere
+4T22;equiv_ri;DRE Contábil;U17;3.6176326585961798;R$ milhões;3.6176326585961798;3.6176326585961798;0.0;confere
+4T22;operacional_ri;DRE Contábil;U19;141.3607172994321;R$ milhões;141.3607172994321;141.3607172994321;0.0;confere
+4T22;financeiro_ri;DRE Contábil;U21;-94.34101405750476;R$ milhões;-94.34101405750476;-94.34101405750476;0.0;confere
+4T22;tributos_ri;DRE Contábil;U22;4.363821322098001;R$ milhões;4.363821322098001;4.363821322098001;0.0;confere
+4T22;lucro_ri;DRE Contábil;U24;51.38352456402535;R$ milhões;51.38352456402535;51.38352456402535;0.0;confere
+4T22;ebitda_ri;DRE Contábil;U28;388.14229727697295;R$ milhões;388.14229727697295;388.14229727697295;0.0;confere
+1T23;faturamento_ri;DRE Contábil;V2;1050.7911695921246;R$ milhões;1050.7911695921246;1050.7911695921246;0.0;confere
+1T23;receita_ri;DRE Contábil;V3;981.9431391153578;R$ milhões;981.9431391153578;981.9431391153578;0.0;confere
+1T23;custos_ri;DRE Contábil;V4;-579.728926439177;R$ milhões;-579.728926439177;-579.728926439177;0.0;confere
+1T23;bruto_ri;DRE Contábil;V7;402.21421267618075;R$ milhões;402.21421267618075;402.21421267618075;0.0;confere
+1T23;despesas_ri;DRE Contábil;V10;-195.5764167759941;R$ milhões;-195.5764167759941;-195.5764167759941;0.0;confere
+1T23;equiv_ri;DRE Contábil;V17;1.7929508542557098;R$ milhões;1.7929508542557098;1.7929508542557098;0.0;confere
+1T23;operacional_ri;DRE Contábil;V19;208.43074675444237;R$ milhões;208.43074675444237;208.43074675444237;0.0;confere
+1T23;financeiro_ri;DRE Contábil;V21;-103.38885196806064;R$ milhões;-103.38885196806064;-103.38885196806064;0.0;confere
+1T23;tributos_ri;DRE Contábil;V22;-21.09886801740223;R$ milhões;-21.09886801740223;-21.09886801740223;0.0;confere
+1T23;lucro_ri;DRE Contábil;V24;83.94302676897951;R$ milhões;83.94302676897951;83.94302676897951;0.0;confere
+1T23;ebitda_ri;DRE Contábil;V28;477.27470481467776;R$ milhões;477.27470481467776;477.27470481467776;0.0;confere
+2T23;faturamento_ri;DRE Contábil;W2;1114.02066079141;R$ milhões;1114.02066079141;1114.02066079141;0.0;confere
+2T23;receita_ri;DRE Contábil;W3;1042.4349938733146;R$ milhões;1042.4349938733146;1042.4349938733146;0.0;confere
+2T23;custos_ri;DRE Contábil;W4;-625.7175325903675;R$ milhões;-625.7175325903675;-625.7175325903675;0.0;confere
+2T23;bruto_ri;DRE Contábil;W7;416.71746128294717;R$ milhões;416.71746128294717;416.71746128294717;0.0;confere
+2T23;despesas_ri;DRE Contábil;W10;-13.5395752057577;R$ milhões;-13.5395752057577;-13.5395752057577;0.0;confere
+2T23;equiv_ri;DRE Contábil;W17;1.3785442153039018;R$ milhões;1.3785442153039018;1.3785442153039018;0.0;confere
+2T23;operacional_ri;DRE Contábil;W19;404.55643029249336;R$ milhões;404.55643029249336;404.55643029249336;0.0;confere
+2T23;financeiro_ri;DRE Contábil;W21;-109.80166974609133;R$ milhões;-109.80166974609133;-109.80166974609133;0.0;confere
+2T23;tributos_ri;DRE Contábil;W22;-32.697208225832156;R$ milhões;-32.697208225832156;-32.697208225832156;0.0;confere
+2T23;lucro_ri;DRE Contábil;W24;262.0575523205699;R$ milhões;262.0575523205699;262.0575523205699;0.0;confere
+2T23;ebitda_ri;DRE Contábil;W28;691.8382884804479;R$ milhões;691.8382884804479;691.8382884804479;0.0;confere
+3T23;faturamento_ri;DRE Contábil;X2;1164.7162391732613;R$ milhões;1164.7162391732613;1164.7162391732613;0.0;confere
+3T23;receita_ri;DRE Contábil;X3;1089.189554048582;R$ milhões;1089.189554048582;1089.189554048582;0.0;confere
+3T23;custos_ri;DRE Contábil;X4;-652.4393161291055;R$ milhões;-652.4393161291055;-652.4393161291055;0.0;confere
+3T23;bruto_ri;DRE Contábil;X7;436.7502379194766;R$ milhões;436.7502379194766;436.7502379194766;0.0;confere
+3T23;despesas_ri;DRE Contábil;X10;-221.99383949010047;R$ milhões;-221.99383949010047;-221.99383949010047;0.0;confere
+3T23;equiv_ri;DRE Contábil;X17;-1.52654711009652;R$ milhões;-1.52654711009652;-1.52654711009652;0.0;confere
+3T23;operacional_ri;DRE Contábil;X19;213.22985131927962;R$ milhões;213.22985131927962;213.22985131927962;0.0;confere
+3T23;financeiro_ri;DRE Contábil;X21;-126.58457204287473;R$ milhões;-126.58457204287473;-126.58457204287473;0.0;confere
+3T23;tributos_ri;DRE Contábil;X22;-25.07177587491922;R$ milhões;-25.07177587491922;-25.07177587491922;0.0;confere
+3T23;lucro_ri;DRE Contábil;X24;61.573503401485674;R$ milhões;61.573503401485674;61.573503401485674;0.0;confere
+3T23;ebitda_ri;DRE Contábil;X28;508.93275712635386;R$ milhões;508.93275712635386;508.93275712635386;0.0;confere
+4T23;faturamento_ri;DRE Contábil;Y2;1209.7937933307117;R$ milhões;1209.7937933307117;1209.7937933307117;0.0;confere
+4T23;receita_ri;DRE Contábil;Y3;1131.175077585699;R$ milhões;1131.175077585699;1131.175077585699;0.0;confere
+4T23;custos_ri;DRE Contábil;Y4;-675.9678407934837;R$ milhões;-675.9678407934837;-675.9678407934837;0.0;confere
+4T23;bruto_ri;DRE Contábil;Y7;455.2072367922153;R$ milhões;455.2072367922153;455.2072367922153;0.0;confere
+4T23;despesas_ri;DRE Contábil;Y10;-233.81591299330512;R$ milhões;-233.81591299330512;-233.81591299330512;0.0;confere
+4T23;equiv_ri;DRE Contábil;Y17;-2.733875803335539;R$ milhões;-2.733875803335539;-2.733875803335539;0.0;confere
+4T23;operacional_ri;DRE Contábil;Y19;218.65744799557467;R$ milhões;218.65744799557467;218.65744799557467;0.0;confere
+4T23;financeiro_ri;DRE Contábil;Y21;-133.51238278174043;R$ milhões;-133.51238278174043;-133.51238278174043;0.0;confere
+4T23;tributos_ri;DRE Contábil;Y22;551.4576285626733;R$ milhões;551.4576285626733;551.4576285626733;0.0;confere
+4T23;lucro_ri;DRE Contábil;Y24;636.6026937765075;R$ milhões;636.6026937765075;636.6026937765075;0.0;confere
+4T23;ebitda_ri;DRE Contábil;Y28;524.2154618140094;R$ milhões;524.2154618140094;524.2154618140094;0.0;confere
+1T24;faturamento_ri;DRE Contábil;Z2;1343.588607281234;R$ milhões;1343.588607281234;1343.588607281234;0.0;confere
+1T24;receita_ri;DRE Contábil;Z3;1259.8884080170521;R$ milhões;1259.8884080170521;1259.8884080170521;0.0;confere
+1T24;custos_ri;DRE Contábil;Z4;-736.573055590007;R$ milhões;-736.573055590007;-736.573055590007;0.0;confere
+1T24;bruto_ri;DRE Contábil;Z7;523.3153524270451;R$ milhões;523.3153524270451;523.3153524270451;0.0;confere
+1T24;despesas_ri;DRE Contábil;Z10;-244.4510502083131;R$ milhões;-244.4510502083131;-244.4510502083131;0.0;confere
+1T24;equiv_ri;DRE Contábil;Z17;-1.0689849448690047;R$ milhões;-1.0689849448690047;-1.0689849448690047;0.0;confere
+1T24;operacional_ri;DRE Contábil;Z19;277.7953172738631;R$ milhões;277.7953172738631;277.7953172738631;0.0;confere
+1T24;financeiro_ri;DRE Contábil;Z21;-161.23918716025602;R$ milhões;-161.23918716025602;-161.23918716025602;0.0;confere
+1T24;tributos_ri;DRE Contábil;Z22;-22.068584406959;R$ milhões;-22.068584406959;-22.068584406959;0.0;confere
+1T24;lucro_ri;DRE Contábil;Z24;94.48754570664805;R$ milhões;94.48754570664805;94.48754570664805;0.0;confere
+1T24;ebitda_ri;DRE Contábil;Z28;603.5495973076161;R$ milhões;603.5495973076161;603.5495973076161;0.0;confere
+2T24;faturamento_ri;DRE Contábil;AA2;1445.7560310112872;R$ milhões;1445.7560310112872;1445.7560310112872;0.0;confere
+2T24;receita_ri;DRE Contábil;AA3;1357.683143042031;R$ milhões;1357.683143042031;1357.683143042031;0.0;confere
+2T24;custos_ri;DRE Contábil;AA4;-802.1613453161508;R$ milhões;-802.1613453161508;-802.1613453161508;0.0;confere
+2T24;bruto_ri;DRE Contábil;AA7;555.5217977258801;R$ milhões;555.5217977258801;555.5217977258801;0.0;confere
+2T24;despesas_ri;DRE Contábil;AA10;-245.8316314302546;R$ milhões;-245.8316314302546;-245.8316314302546;0.0;confere
+2T24;equiv_ri;DRE Contábil;AA17;-0.5472599617143072;R$ milhões;-0.5472599617143072;-0.5472599617143072;0.0;confere
+2T24;operacional_ri;DRE Contábil;AA19;309.14290633391124;R$ milhões;309.14290633391124;309.14290633391124;0.0;confere
+2T24;financeiro_ri;DRE Contábil;AA21;-197.73760720920987;R$ milhões;-197.73760720920987;-197.73760720920987;0.0;confere
+2T24;tributos_ri;DRE Contábil;AA22;-17.008503983471417;R$ milhões;-17.008503983471417;-17.008503983471417;0.0;confere
+2T24;lucro_ri;DRE Contábil;AA24;94.39679514122996;R$ milhões;94.39679514122996;94.39679514122996;0.0;confere
+2T24;ebitda_ri;DRE Contábil;AA28;658.2864499917782;R$ milhões;658.2864499917782;658.2864499917782;0.0;confere
+3T24;faturamento_ri;DRE Contábil;AB2;1515.0831674832107;R$ milhões;1515.0831674832107;1515.0831674832107;0.0;confere
+3T24;receita_ri;DRE Contábil;AB3;1422.1338936356801;R$ milhões;1422.1338936356801;1422.1338936356801;0.0;confere
+3T24;custos_ri;DRE Contábil;AB4;-834.5838405532902;R$ milhões;-834.5838405532902;-834.5838405532902;0.0;confere
+3T24;bruto_ri;DRE Contábil;AB7;587.5500530823899;R$ milhões;587.5500530823899;587.5500530823899;0.0;confere
+3T24;despesas_ri;DRE Contábil;AB10;-268.38520986360555;R$ milhões;-268.38520986360555;-268.38520986360555;0.0;confere
+3T24;equiv_ri;DRE Contábil;AB17;1.4452018772062931;R$ milhões;1.4452018772062931;1.4452018772062931;0.0;confere
+3T24;operacional_ri;DRE Contábil;AB19;320.61004509599064;R$ milhões;320.61004509599064;320.61004509599064;0.0;confere
+3T24;financeiro_ri;DRE Contábil;AB21;-193.23635804788705;R$ milhões;-193.23635804788705;-193.23635804788705;0.0;confere
+3T24;tributos_ri;DRE Contábil;AB22;-40.74808056399057;R$ milhões;-40.74808056399057;-40.74808056399057;0.0;confere
+3T24;lucro_ri;DRE Contábil;AB24;86.62560648411302;R$ milhões;86.62560648411302;86.62560648411302;0.0;confere
+3T24;ebitda_ri;DRE Contábil;AB28;675.8420188938405;R$ milhões;675.8420188938405;675.8420188938405;0.0;confere
+4T24;faturamento_ri;DRE Contábil;AC2;1641.7106801096952;R$ milhões;1641.7106801096952;1641.7106801096952;0.0;confere
+4T24;receita_ri;DRE Contábil;AC3;1540.598652993819;R$ milhões;1540.598652993819;1540.598652993819;0.0;confere
+4T24;custos_ri;DRE Contábil;AC4;-894.0971254420374;R$ milhões;-894.0971254420374;-894.0971254420374;0.0;confere
+4T24;bruto_ri;DRE Contábil;AC7;646.5015275517817;R$ milhões;646.5015275517817;646.5015275517817;0.0;confere
+4T24;despesas_ri;DRE Contábil;AC10;-291.4623079362941;R$ milhões;-291.4623079362941;-291.4623079362941;0.0;confere
+4T24;equiv_ri;DRE Contábil;AC17;1.0157922318419972;R$ milhões;1.0157922318419972;1.0157922318419972;0.0;confere
+4T24;operacional_ri;DRE Contábil;AC19;356.0550118473296;R$ milhões;356.0550118473296;356.0550118473296;0.0;confere
+4T24;financeiro_ri;DRE Contábil;AC21;-215.05939555126213;R$ milhões;-215.05939555126213;-215.05939555126213;0.0;confere
+4T24;tributos_ri;DRE Contábil;AC22;24.06729769600453;R$ milhões;24.06729769600453;24.06729769600453;0.0;confere
+4T24;lucro_ri;DRE Contábil;AC24;165.06291399207197;R$ milhões;165.06291399207197;165.06291399207197;0.0;confere
+4T24;ebitda_ri;DRE Contábil;AC28;738.1945536693415;R$ milhões;738.1945536693415;738.1945536693415;0.0;confere
+1T25;faturamento_ri;DRE Contábil;AD2;1781.4117791141364;R$ milhões;1781.4117791141364;1781.4117791141364;0.0;confere
+1T25;receita_ri;DRE Contábil;AD3;1678.1738920794573;R$ milhões;1678.1738920794573;1678.1738920794573;0.0;confere
+1T25;custos_ri;DRE Contábil;AD4;-961.0564699282373;R$ milhões;-961.0564699282373;-961.0564699282373;0.0;confere
+1T25;bruto_ri;DRE Contábil;AD7;717.11742215122;R$ milhões;717.11742215122;717.11742215122;0.0;confere
+1T25;despesas_ri;DRE Contábil;AD10;-339.6670274440616;R$ milhões;-339.6670274440616;-339.6670274440616;0.0;confere
+1T25;equiv_ri;DRE Contábil;AD17;3.04958918428072;R$ milhões;3.04958918428072;3.04958918428072;0.0;confere
+1T25;operacional_ri;DRE Contábil;AD19;380.4999838914391;R$ milhões;380.4999838914391;380.4999838914391;0.0;confere
+1T25;financeiro_ri;DRE Contábil;AD21;-225.35813345493398;R$ milhões;-225.35813345493398;-225.35813345493398;0.0;confere
+1T25;tributos_ri;DRE Contábil;AD22;-34.19443702253599;R$ milhões;-34.19443702253599;-34.19443702253599;0.0;confere
+1T25;lucro_ri;DRE Contábil;AD24;120.94741341396914;R$ milhões;120.94741341396914;120.94741341396914;0.0;confere
+1T25;ebitda_ri;DRE Contábil;AD28;789.4863249687838;R$ milhões;789.4863249687838;789.4863249687838;0.0;confere
+2T25;faturamento_ri;DRE Contábil;AE2;1901.2389786570227;R$ milhões;1901.2389786570227;1901.2389786570227;0.0;confere
+2T25;receita_ri;DRE Contábil;AE3;1791.139609783385;R$ milhões;1791.139609783385;1791.139609783385;0.0;confere
+2T25;custos_ri;DRE Contábil;AE4;-1016.7551933724523;R$ milhões;-1016.7551933724523;-1016.7551933724523;0.0;confere
+2T25;bruto_ri;DRE Contábil;AE7;774.3844164109327;R$ milhões;774.3844164109327;774.3844164109327;0.0;confere
+2T25;despesas_ri;DRE Contábil;AE10;-343.3531942601047;R$ milhões;-343.3531942601047;-343.3531942601047;0.0;confere
+2T25;equiv_ri;DRE Contábil;AE17;-1.4924938983684621;R$ milhões;-1.4924938983684621;-1.4924938983684621;0.0;confere
+2T25;operacional_ri;DRE Contábil;AE19;429.53872825245946;R$ milhões;429.53872825245946;429.53872825245946;0.0;confere
+2T25;financeiro_ri;DRE Contábil;AE21;-224.21256933657668;R$ milhões;-224.21256933657668;-224.21256933657668;0.0;confere
+2T25;tributos_ri;DRE Contábil;AE22;-44.43749838951638;R$ milhões;-44.43749838951638;-44.43749838951638;0.0;confere
+2T25;lucro_ri;DRE Contábil;AE24;160.8886605263664;R$ milhões;160.8886605263664;160.8886605263664;0.0;confere
+2T25;ebitda_ri;DRE Contábil;AE28;856.062632185829;R$ milhões;856.062632185829;856.062632185829;0.0;confere
+3T25;faturamento_ri;DRE Contábil;AF2;1937.8809214530884;R$ milhões;1937.8809214530884;1937.8809214530884;0.0;confere
+3T25;receita_ri;DRE Contábil;AF3;1824.1556576734151;R$ milhões;1824.1556576734151;1824.1556576734151;0.0;confere
+3T25;custos_ri;DRE Contábil;AF4;-1061.1112896514803;R$ milhões;-1061.1112896514803;-1061.1112896514803;0.0;confere
+3T25;bruto_ri;DRE Contábil;AF7;763.0443680219348;R$ milhões;763.0443680219348;763.0443680219348;0.0;confere
+3T25;despesas_ri;DRE Contábil;AF10;-335.2316820595745;R$ milhões;-335.2316820595745;-335.2316820595745;0.0;confere
+3T25;equiv_ri;DRE Contábil;AF17;3.2169748060026118;R$ milhões;3.2169748060026118;3.2169748060026118;0.0;confere
+3T25;operacional_ri;DRE Contábil;AF19;431.02966076836293;R$ milhões;431.02966076836293;431.02966076836293;0.0;confere
+3T25;financeiro_ri;DRE Contábil;AF21;-238.51481066559046;R$ milhões;-238.51481066559046;-238.51481066559046;0.0;confere
+3T25;tributos_ri;DRE Contábil;AF22;-48.247188875939855;R$ milhões;-48.247188875939855;-48.247188875939855;0.0;confere
+3T25;lucro_ri;DRE Contábil;AF24;144.26766122683262;R$ milhões;144.26766122683262;144.26766122683262;0.0;confere
+3T25;ebitda_ri;DRE Contábil;AF28;875.3642232344882;R$ milhões;875.3642232344882;875.3642232344882;0.0;confere
+4T25;faturamento_ri;DRE Contábil;AG2;2068.9888032692616;R$ milhões;2068.9888032692616;2068.9888032692616;0.0;confere
+4T25;receita_ri;DRE Contábil;AG3;1948.1936439107458;R$ milhões;1948.1936439107458;1948.1936439107458;0.0;confere
+4T25;custos_ri;DRE Contábil;AG4;-1125.83445582995;R$ milhões;-1125.83445582995;-1125.83445582995;0.0;confere
+4T25;bruto_ri;DRE Contábil;AG7;822.3591880807958;R$ milhões;822.3591880807958;822.3591880807958;0.0;confere
+4T25;despesas_ri;DRE Contábil;AG10;-365.8348725552641;R$ milhões;-365.8348725552641;-365.8348725552641;0.0;confere
+4T25;equiv_ri;DRE Contábil;AG17;0.22064631564995363;R$ milhões;0.22064631564995363;0.22064631564995363;0.0;confere
+4T25;operacional_ri;DRE Contábil;AG19;456.74496184118163;R$ milhões;456.74496184118163;456.74496184118163;0.0;confere
+4T25;financeiro_ri;DRE Contábil;AG21;-265.31400740667084;R$ milhões;-265.31400740667084;-265.31400740667084;0.0;confere
+4T25;tributos_ri;DRE Contábil;AG22;23.003201621884756;R$ milhões;23.003201621884756;23.003201621884756;0.0;confere
+4T25;lucro_ri;DRE Contábil;AG24;214.43415605639555;R$ milhões;214.43415605639555;214.43415605639555;0.0;confere
+4T25;ebitda_ri;DRE Contábil;AG28;934.146580908492;R$ milhões;934.146580908492;934.146580908492;0.0;confere
+1T26;faturamento_ri;DRE Contábil;AH2;2220.1351634063176;R$ milhões;2220.1351634063176;2220.1351634063176;0.0;confere
+1T26;receita_ri;DRE Contábil;AH3;2102.1041729694484;R$ milhões;2102.1041729694484;2102.1041729694484;0.0;confere
+1T26;custos_ri;DRE Contábil;AH4;-1170.9787938296342;R$ milhões;-1170.9787938296342;-1170.9787938296342;0.0;confere
+1T26;bruto_ri;DRE Contábil;AH7;931.1253791398142;R$ milhões;931.1253791398142;931.1253791398142;0.0;confere
+1T26;despesas_ri;DRE Contábil;AH10;-431.02417014246186;R$ milhões;-431.02417014246186;-431.02417014246186;0.0;confere
+1T26;equiv_ri;DRE Contábil;AH17;-0.000989843907643095;R$ milhões;-0.000989843907643095;-0.000989843907643095;0.0;confere
+1T26;operacional_ri;DRE Contábil;AH19;500.1002191534447;R$ milhões;500.1002191534447;500.1002191534447;0.0;confere
+1T26;financeiro_ri;DRE Contábil;AH21;-285.94681573865046;R$ milhões;-285.94681573865046;-285.94681573865046;0.0;confere
+1T26;tributos_ri;DRE Contábil;AH22;-41.9748675640485;R$ milhões;-41.9748675640485;-41.9748675640485;0.0;confere
+1T26;lucro_ri;DRE Contábil;AH24;172.17853585074573;R$ milhões;172.17853585074573;172.17853585074573;0.0;confere
+1T26;ebitda_ri;DRE Contábil;AH28;1004.829752348397;R$ milhões;1004.829752348397;1004.829752348397;0.0;confere
+2T26;faturamento_ri;DRE Contábil;AI2;2297.235642740702;R$ milhões;2297.235642740702;2297.235642740702;0.0;confere
+2T26;receita_ri;DRE Contábil;AI3;2177.0850345215526;R$ milhões;2177.0850345215526;2177.0850345215526;0.0;confere
+2T26;custos_ri;DRE Contábil;AI4;-1215.5541489453087;R$ milhões;-1215.5541489453087;-1215.5541489453087;0.0;confere
+2T26;bruto_ri;DRE Contábil;AI7;961.5308855762439;R$ milhões;961.5308855762439;961.5308855762439;0.0;confere
+2T26;despesas_ri;DRE Contábil;AI10;-434.89799567082906;R$ milhões;-434.89799567082906;-434.89799567082906;0.0;confere
+2T26;equiv_ri;DRE Contábil;AI17;0.0009898484866880171;R$ milhões;0.0009898484866880171;0.0009898484866880171;0.0;confere
+2T26;operacional_ri;DRE Contábil;AI19;526.6338797539016;R$ milhões;526.6338797539016;526.6338797539016;0.0;confere
+2T26;financeiro_ri;DRE Contábil;AI21;-326.10831890389954;R$ milhões;-326.10831890389954;-326.10831890389954;0.0;confere
+2T26;tributos_ri;DRE Contábil;AI22;-44.655596505582686;R$ milhões;-44.655596505582686;-44.655596505582686;0.0;confere
+2T26;lucro_ri;DRE Contábil;AI24;155.8699643444194;R$ milhões;155.8699643444194;155.8699643444194;0.0;confere
+2T26;ebitda_ri;DRE Contábil;AI28;1044.7757670257065;R$ milhões;1044.7757670257065;1044.7757670257065;0.0;confere
+3T26;faturamento_ri;DRE Contábil;AJ2;2478.814864160202;R$ milhões;2478.814864160202;2478.814864160202;0.0;confere
+3T26;receita_ri;DRE Contábil;AJ3;2348.7168337508765;R$ milhões;2348.7168337508765;2348.7168337508765;0.0;confere
+3T26;custos_ri;DRE Contábil;AJ4;-1324.8468950015922;R$ milhões;-1324.8468950015922;-1324.8468950015922;0.0;confere
+3T26;bruto_ri;DRE Contábil;AJ7;1023.8699387492843;R$ milhões;1023.8699387492843;1023.8699387492843;0.0;confere
+3T26;despesas_ri;DRE Contábil;AJ10;-448.48111951709063;R$ milhões;-448.48111951709063;-448.48111951709063;0.0;confere
+3T26;equiv_ri;DRE Contábil;AJ17;0.0;R$ milhões;0.0;0.0;0.0;confere
+3T26;operacional_ri;DRE Contábil;AJ19;575.3888192321937;R$ milhões;575.3888192321937;575.3888192321937;0.0;confere
+3T26;financeiro_ri;DRE Contábil;AJ21;-328.38700000000006;R$ milhões;-328.38700000000006;-328.38700000000006;0.0;confere
+3T26;tributos_ri;DRE Contábil;AJ22;-34.83800000000001;R$ milhões;-34.83800000000001;-34.83800000000001;0.0;confere
+3T26;lucro_ri;DRE Contábil;AJ24;212.1638192321936;R$ milhões;212.1638192321936;212.1638192321936;0.0;confere
+3T26;ebitda_ri;DRE Contábil;AJ28;1133.3793987654367;R$ milhões;1133.3793987654367;1133.3793987654367;0.0;confere

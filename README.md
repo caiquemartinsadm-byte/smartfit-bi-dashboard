@@ -1,47 +1,37 @@
 # Smart Fit | Business Intelligence & Analytics
 
-## Visão geral
+Projeto independente de portfólio que investiga se a expansão da rede Smart Fit está acompanhada de crescimento rentável.
 
-Projeto independente de Business Intelligence voltado à análise do desempenho financeiro e operacional da Smart Fit, com base em dados públicos disponibilizados pela companhia e pela Comissão de Valores Mobiliários (CVM).
+## Dashboard
 
-A proposta é desenvolver um dashboard executivo interativo que permita acompanhar a evolução dos principais indicadores do negócio, avaliar seu desempenho histórico e identificar tendências de crescimento, rentabilidade e expansão operacional.
+A versão V5 conciliada reúne três páginas: Visão executiva, Expansão da rede e Rentabilidade. A base inclui 19 trimestres (1T22 a 3T26); a interface apresenta 15 (1T23 a 3T26), usando 2022 como referência para comparações anuais.
 
-## Indicadores de desempenho (KPIs)
+Abra `index.html` em um navegador. O arquivo é autônomo, construído em HTML, CSS, JavaScript e SVG, sem dependências externas.
 
-- Receita líquida
-- Lucro líquido
-- Margem líquida
-- Número de academias
-- Base de alunos
-- Ticket médio
-- Variação trimestral (QoQ)
-- Variação anual (YoY)
+## Dados e metodologia
 
-## Metodologia
+- Visão executiva: receita líquida, lucro líquido consolidado, margem líquida e variações anuais, provenientes da DRE consolidada da CVM.
+- Expansão: academias e clientes de academias, separados entre próprias e franquias, provenientes da Planilha Dinâmica do RI.
+- Rentabilidade: cascata da DRE e margens bruta, operacional e líquida da CVM; EBITDA, faturamento e respectiva receita permanecem na série RI.
+- Ticket médio não apresentado por ausência de série comparável. Valores ausentes não são tratados como zero.
 
-- Coleta de dados em fontes oficiais
-- Tratamento, padronização e validação dos dados
-- Estruturação e modelagem da base analítica
-- Definição e cálculo dos indicadores de desempenho
-- Desenvolvimento do dashboard executivo
-- Análise e interpretação dos resultados
+## Validação
 
-## Aplicação de inteligência artificial
+Os 19 trimestres foram conferidos nos ITRs e DFPs recebidos da CVM, com 38 coincidências exatas de receita e lucro. A conciliação dos nove componentes da DRE gerou 171 comparações. A Planilha Dinâmica 3T26 foi conferida em 323 observações, todas coincidentes com a série RI original. A cascata utiliza exclusivamente os valores CVM, preservando a série RI em colunas separadas. A causa das diferenças entre fontes não foi confirmada.
 
-O projeto incorpora ferramentas de inteligência artificial generativa como recurso de apoio à pesquisa, ao tratamento de dados e ao desenvolvimento da solução analítica.
+Consulte [o registro de validação](docs/validation.md), [o dicionário de dados](docs/data_dictionary.md) e [as evidências](docs/evidencias/).
 
-A metodologia prevê a conferência das informações com as fontes originais, a revisão dos cálculos e a validação dos resultados, buscando garantir consistência e rastreabilidade dos dados.
+## Reprodução
 
-## Fontes de dados
+1. Baixe ou clone o repositório.
+2. Abra `index.html` no navegador.
+3. Execute `python scripts/extract_dashboard_data.py` com Python 3 para reproduzir os CSVs a partir da base incorporada ao HTML.
+4. Para conferir a origem contábil, utilize os arquivos ITR 2022–2026 e DFP 2022–2025 disponíveis no portal da CVM e os registros de contas, versões e hashes em `docs/evidencias`. A extração do HTML não equivale à coleta independente.
 
-- Smart Fit — Relações com Investidores
-- Comissão de Valores Mobiliários (CVM)
-- Demonstrações financeiras e relatórios trimestrais de resultados
+Fontes: [CVM](https://dados.cvm.gov.br/) e [Relações com Investidores da Smart Fit](https://investor.smartfit.com.br/).
 
-## Status do projeto
+## Uso de inteligência artificial
 
-Em desenvolvimento.
+O projeto foi desenvolvido com apoio de IA generativa na pesquisa, tratamento dos dados, programação e documentação, com revisão e aprovação do responsável pelo portfólio.
 
----
-
-Projeto independente de caráter educacional e profissional, sem vínculo institucional com a Smart Fit.
+Projeto educacional e de portfólio, sem vínculo institucional com a Smart Fit.
