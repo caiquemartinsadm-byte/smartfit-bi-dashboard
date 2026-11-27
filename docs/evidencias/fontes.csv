@@ -1,0 +1,19 @@
+documento;url;situacao
+ITR 2T23;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/bca3257c-e253-4be3-549d-84e90b39f646?origin=1;Consultado
+ITR 3T22;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/54119d69-d2a1-a304-352e-5c1bfe6bbb6d?origin=1;Consultado
+DFP 2023;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/175c410f-a747-2832-c871-792692927a53?origin=2;Consultado
+ITR 1T24;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/99b71666-0a49-6766-d389-992d8f91ba18?origin=1;Consultado
+ITR 3T24;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/80b9b867-b101-6c17-4f2c-715f9c954e99?origin=2;Consultado
+ITR 2T25;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/0449018c-a9c2-bb8d-b520-e6c8389cfd29?origin=1;Consultado
+DFP 2025;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/45ddb5e6-3e5b-d499-4248-56cd2eeb69b4?origin=2;Consultado
+ITR 1T26;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/02958b7d-efaa-0d7e-f2f8-b56d3490e446?origin=2;Consultado
+ITR 2T26;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/e6ace007-95e4-6270-6e1f-a5f49597a415?origin=2;Consultado
+ITR 3T26;https://filemanager-cdn.mziq.com/published/757d3905-6a2d-496a-bbb0-32ddd17de6a0/82bbc24b-3e1d-4ec4-96de-55095a90d643;Consultado
+Release 1T23;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/6c8590b9-87ba-c0c1-9711-3afdb8151718?origin=2;Consultado
+Release 4T23;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/a789e5fb-abd2-3104-1894-2f3071fd94d5?origin=1;Consultado
+Release 1T25;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/1d91501c-947d-0ba6-fb66-9df155d4bbb1?origin=2;Consultado
+Release 4T25;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/544a3617-557a-963c-e276-3ea9cc4f7243?origin=2;Consultado
+Release 3T26;https://filemanager-cdn.mziq.com/published/757d3905-6a2d-496a-bbb0-32ddd17de6a0/5a4930ee-ee8c-4e3b-b8e7-b4972a38a7a3;Consultado
+Planilha Dinamica;https://api.mziq.com/mzfilemanager/v2/d/757d3905-6a2d-496a-bbb0-32ddd17de6a0/b3fa8399-e11e-b82e-14e2-666ef41a1ca9?origin=2;"Localizado; conteudo tabular nao acessado"
+CVM ITR;https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr;"Localizado; conteudo tabular nao acessado"
+CVM DFP;https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp;"Localizado; conteudo tabular nao acessado"

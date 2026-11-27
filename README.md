@@ -26,7 +26,7 @@ A extração reproduz a base do painel, não a coleta original na CVM ou no RI.
 
 ## Fontes e status
 
-Fontes declaradas na V5: [CVM](https://dados.cvm.gov.br/) e [Relações com Investidores da Smart Fit](https://investor.smartfit.com.br/). O painel V5 foi aprovado para apresentação. A consistência interna da base foi conferida; o registro de fontes por trimestre, conta e célula, os arquivos originais e a validação externa precisam ser recuperados antes de considerar a base integralmente auditada.
+Fontes declaradas na V5: [CVM](https://dados.cvm.gov.br/) e [Relações com Investidores da Smart Fit](https://investor.smartfit.com.br/). O painel V5 foi aprovado para apresentação. A revisão de 152 observações dos indicadores básicos consta em [docs/evidencias/RELATORIO.md](docs/evidencias/RELATORIO.md): 95 coincidências exatas e 57 na precisão publicada. A validação direta dos ZIPs da CVM, da Planilha Dinâmica e a conciliação integral da página de Rentabilidade ainda estão pendentes. Consulte [o registro atualizado](docs/validation.md).
 
 ## Uso de inteligência artificial
 
