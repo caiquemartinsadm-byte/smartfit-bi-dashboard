@@ -1,25 +1,8 @@
 # Base de dados
 
-Esta pasta reúne os dados financeiros e operacionais utilizados no projeto de Business Intelligence da Smart Fit.
+`processed/dashboard_data.csv`: extração integral dos 19 trimestres incorporados ao HTML V5.
+`processed/financial_data.csv`: projeção da série financeira identificada como CVM, em reais, com datas de encerramento trimestral.
 
-## Fontes oficiais
+Campos vazios representam valores ausentes. As séries de RI em R$ milhões e da CVM em R$ mil são mantidas separadas no CSV integral.
 
-- [Smart Fit — Relações com Investidores](https://investor.smartfit.com.br/)
-- [CVM — Portal de Dados Abertos](https://dados.cvm.gov.br/)
-
-## Estrutura
-
-- `raw/`: dados originais extraídos das fontes oficiais.
-- `processed/`: dados tratados e padronizados para análise.
-
-## Critérios de tratamento
-
-- Padronização dos períodos de referência.
-- Utilização das demonstrações financeiras consolidadas.
-- Padronização das unidades monetárias.
-- Identificação de valores ausentes e inconsistências.
-- Conferência dos indicadores com os documentos originais.
-
-## Escopo temporal
-
-Período previsto: 1T22 a 3T26, sujeito à disponibilidade e à comparabilidade dos dados históricos.
+A base original e os comprovantes de coleta não acompanham o HTML recebido. Consulte `../docs/validation.md` para o escopo da conferência.

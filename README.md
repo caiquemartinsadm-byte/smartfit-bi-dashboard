@@ -1,47 +1,35 @@
 # Smart Fit | Business Intelligence & Analytics
 
-## Visão geral
+Projeto independente de portfólio que investiga se a expansão da rede Smart Fit está acompanhada de crescimento rentável.
 
-Projeto independente de Business Intelligence voltado à análise do desempenho financeiro e operacional da Smart Fit, com base em dados públicos disponibilizados pela companhia e pela Comissão de Valores Mobiliários (CVM).
+## Dashboard
 
-A proposta é desenvolver um dashboard executivo interativo que permita acompanhar a evolução dos principais indicadores do negócio, avaliar seu desempenho histórico e identificar tendências de crescimento, rentabilidade e expansão operacional.
+A versão V5 reúne três páginas: Visão executiva, Expansão da rede e Rentabilidade. A base inclui 19 trimestres (1T22 a 3T26); a interface apresenta 15 (1T23 a 3T26), usando 2022 como referência para comparações anuais.
 
-## Indicadores de desempenho (KPIs)
+Para explorar o painel, abra `index.html` em um navegador. O arquivo é autônomo, construído em HTML, CSS, JavaScript e SVG, sem dependências externas. Para hospedar, pode-se utilizar GitHub Pages a partir da raiz do repositório.
 
-- Receita líquida
-- Lucro líquido
-- Margem líquida
-- Número de academias
-- Base de alunos
-- Ticket médio
-- Variação trimestral (QoQ)
-- Variação anual (YoY)
+## Dados e metodologia
 
-## Metodologia
+- Visão executiva: receita líquida, lucro líquido consolidado, margem líquida e variações anuais, identificados no painel como dados da DRE consolidada da CVM.
+- Expansão: academias e clientes de academias, separados entre próprias e franquias; dados identificados como provenientes da Planilha Dinâmica de RI.
+- Rentabilidade: cascata da DRE e margens bruta, operacional e EBITDA da série contábil de RI; a margem líquida da CVM permanece separada.
+- Ticket médio não apresentado por ausência de série comparável. Valores ausentes não são tratados como zero.
 
-- Coleta de dados em fontes oficiais
-- Tratamento, padronização e validação dos dados
-- Estruturação e modelagem da base analítica
-- Definição e cálculo dos indicadores de desempenho
-- Desenvolvimento do dashboard executivo
-- Análise e interpretação dos resultados
+## Reprodução
 
-## Aplicação de inteligência artificial
+1. Baixe ou clone o repositório.
+2. Abra `index.html` para utilizar o dashboard.
+3. Opcionalmente, execute `python scripts/extract_dashboard_data.py` com Python 3 para reproduzir os CSVs a partir da base incorporada ao HTML.
+4. Consulte [o dicionário de dados](docs/data_dictionary.md) e [o registro de validação](docs/validation.md).
 
-O projeto incorpora ferramentas de inteligência artificial generativa como recurso de apoio à pesquisa, ao tratamento de dados e ao desenvolvimento da solução analítica.
+A extração reproduz a base do painel, não a coleta original na CVM ou no RI.
 
-A metodologia prevê a conferência das informações com as fontes originais, a revisão dos cálculos e a validação dos resultados, buscando garantir consistência e rastreabilidade dos dados.
+## Fontes e status
 
-## Fontes de dados
+Fontes declaradas na V5: [CVM](https://dados.cvm.gov.br/) e [Relações com Investidores da Smart Fit](https://investor.smartfit.com.br/). O painel V5 foi aprovado para apresentação. A consistência interna da base foi conferida; o registro de fontes por trimestre, conta e célula, os arquivos originais e a validação externa precisam ser recuperados antes de considerar a base integralmente auditada.
 
-- Smart Fit — Relações com Investidores
-- Comissão de Valores Mobiliários (CVM)
-- Demonstrações financeiras e relatórios trimestrais de resultados
+## Uso de inteligência artificial
 
-## Status do projeto
+O projeto foi desenvolvido com apoio de IA generativa na pesquisa, organização e tratamento dos dados, programação e documentação. A interpretação dos resultados e a revisão das fontes fazem parte do processo de avaliação do projeto.
 
-Em desenvolvimento.
-
----
-
-Projeto independente de caráter educacional e profissional, sem vínculo institucional com a Smart Fit.
+Projeto educacional e de portfólio, sem vínculo institucional com a Smart Fit.
