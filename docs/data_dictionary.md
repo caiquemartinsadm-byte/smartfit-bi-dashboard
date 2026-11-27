@@ -17,3 +17,8 @@ Definições recuperadas da interface V5; a documentação original das fontes n
 | ebitda_ri; faturamento_ri | EBITDA identificado como contábil IFRS 16 e faturamento da série RI. | R$ milhões |
 
 No CSV financeiro simplificado, `period` é AAAAQn, `reference_date` é a data de encerramento trimestral, e `net_revenue_brl` e `net_income_brl` estão em reais.
+
+
+## Série contábil conciliada
+
+`receita_cvm`, `custos_cvm`, `bruto_cvm`, `despesas_cvm`, `equiv_cvm`, `operacional_cvm`, `financeiro_cvm`, `tributos_cvm`, `lucro_cvm`: componentes da DRE consolidada da CVM, em R$ milhões. Despesas excluem equivalência patrimonial, exibida separadamente. As colunas RI originais permanecem para rastreabilidade. As margens bruta e operacional usam receita CVM; a margem EBITDA usa receita RI.

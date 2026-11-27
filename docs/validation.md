@@ -1,14 +1,19 @@
-# Validação — situação da revisão em 27/11/2026
+# Validação final — V5 conciliada
 
-A revisão anterior está preservada em [evidencias/RELATORIO.md](evidencias/RELATORIO.md), acompanhada de matriz, fontes, conciliação e cálculo dos quartos trimestres.
+Revisão aprovada pelo responsável pelo projeto. Base: 1T22–3T26.
 
-## Evidências adicionais
-- ITR de 30/06/2026 V2, protocolo 024260ITR300620260200160235-63, enviado em 06/08/2026: correção da apresentação de controladora/consolidado no formulário CVM, sem alteração do resultado ou patrimônio líquido. [Registro oficial](https://www.rad.cvm.gov.br/ENETWEB/frmGerenciaPaginaFRE.aspx?CodigoTipoInstituicao=1&NumeroSequencialDocumento=160235).
-- Release 3T26, p. 12 (receita bruta), 37 (DRE reportada e EBITDA incluindo IFRS 16), 39 (DRE contábil): https://filemanager-cdn.mziq.com/published/757d3905-6a2d-496a-bbb0-32ddd17de6a0/17930d45-d74a-45bd-87e6-79fa10b347a6. A conferência adicional está em [conferencia_release_3T26.csv](evidencias/conferencia_release_3T26.csv). Despesas agregadas só foram comparadas quando o total foi publicado; traço em equivalência representa zero na tabela contábil, não preenchimento de dado ausente.
-- Planilha Dinâmica 3T26 recebida do usuário e conferida: 323/323 observações coincidentes, incluindo clientes até a unidade e toda a série RI da cascata, EBITDA e receita bruta. Veja [o relatório de células e escopo](evidencias/validacao_planilha_dinamica.md) e [a matriz](evidencias/matriz_planilha_dinamica.csv).
-- ZIP CVM retornou tipo ZIP não suportado; acesso direto no ambiente falhou. Não há validação exata dos arquivos originais nesta etapa.
+- CVM: 19/19 trimestres, 38/38 coincidências exatas de receita e lucro, 171 comparações de componentes da DRE e fechamento de 19 cascatas.
+- RI: 323/323 observações conferidas contra a Planilha Dinâmica 3T26; 114 operacionais e 209 financeiras.
+- 4T: DFP anual menos ITR de nove meses. DFP 2022 V2; demais DFPs V1. ITR 2T26 V2.
+- A causa das diferenças entre CVM e RI não foi confirmada. Os valores originais RI foram preservados; a cascata usa os valores CVM.
+- Verificação da versão publicada: 19 registros, colunas originais intactas, CSS idêntico, fechamento aritmético e igualdade dos KPIs CVM. Não foi realizado teste visual em navegador nesta etapa.
 
-## Próxima conciliação reproduzível
-`python scripts/reconcile_cvm.py --download` em ambiente com internet, ou coloque os ZIPs de ITR 2022–2026 e DFP 2022–2025 em `data/raw/cvm` e execute `python scripts/reconcile_cvm.py`. A rotina proposta usa DRE consolidada, código CVM 24260, última versão e trimestre isolado; 4T por DFP menos 9M. Gera CSV de diferenças e proposta separada. Não executada com dados reais, pois os arquivos não estão disponíveis. Revisar eventuais exceções de conta/escala e reconciliar com as demonstrações antes de usar.
+## Evidências
 
-Não usar os valores arredondados do release como substituto de valores exatos. A validação de clientes até a unidade e da série completa de Rentabilidade contra a Planilha Dinâmica foi concluída. A conciliação integral dos componentes da cascata com a CVM permanece pendente. A versão HTML foi mantida intacta; não há alteração de valores sem comprovação. A publicação definitiva aguarda a resolução das pendências e revisão.
+- [Conciliação completa CVM](evidencias/conciliacao_cvm_completa.csv)
+- [Memória de cálculo 4T](evidencias/memoria_calculo_4t_cvm.csv)
+- [Planilha Dinâmica: células e escopo](evidencias/validacao_planilha_dinamica.md)
+- [Matriz RI](evidencias/matriz_planilha_dinamica.csv)
+- [Revisão anterior](evidencias/RELATORIO.md)
+
+Os ZIPs e XLSX originais não são republicados. As evidências incluem a localização e identificação das fontes. O script de extração reproduz a base incorporada; a rotina independente reconcile_cvm.py foi criada na revisão anterior e não é certificada como reproduzível nesta etapa.
